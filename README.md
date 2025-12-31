@@ -3,6 +3,9 @@
 A React-based user dashboard that demonstrates clean architecture,
 async data handling, and performance-aware UI development.
 
+# Live Demo
+https://user-dashboard-sigma-ten.vercel.app/
+
 ## Features
 - Fetch users from external API
 - Search and filter users in real time
